@@ -1,0 +1,6 @@
+{
+    "modelId": "stability.stable-diffusion-xl-v1",
+    "contentType": "application/json",
+    "accept": "application/json",
+    "body": "{\"text_prompts\":[{\"text\":\"this is where you place your input text\",\"weight\":1}],\"cfg_scale\":10,\"seed\":0,\"steps\":50,\"width\":512,\"height\":512}"
+   }

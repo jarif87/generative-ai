@@ -1,0 +1,1 @@
+{"modelId":"meta.llama3-2-11b-instruct-v1:0","contentType":"application/json","accept":"application/json","body":{"inputs":[[{"role":"user","content":"Tell me about Paris"},{"role":"assistant","content":"Paris is a city in France."},{"role":"user","content":"Is it the biggest city in France?"}]],"parameters":{"max_new_tokens":512,"top_p":0.9,"temperature":0.6}}}
