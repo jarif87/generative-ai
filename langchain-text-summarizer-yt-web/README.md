@@ -1,0 +1,1 @@
+A Streamlit app that uses LangChain and Gemma AI to generate quick summaries from YouTube videos and web articles, helping users understand key points from online content without reading the entire material.
