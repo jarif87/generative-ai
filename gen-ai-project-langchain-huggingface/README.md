@@ -1,0 +1,1 @@
+This Streamlit app allows users to generate concise summaries from YouTube videos or website content using LangChain and Hugging Face models. Simply enter a URL, and the app will fetch and summarize the text efficiently
